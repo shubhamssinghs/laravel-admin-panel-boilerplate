@@ -35,13 +35,13 @@ DB_PASSWORD=
 npm install & npm run dev
 ```
 
-### Step 5 : Migrate database
+### Step 5 : Migrate Database
 
 ```
 php artisan migrate
 ```
 
-### Step 6 : Run Developemnt Serve
+### Step 6 : Run Development Serve
 
 ```
 php artisan serve
